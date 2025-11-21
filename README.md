@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Lightning Web Component & Apex Development**
 
-- 🌐 Trailhead Profile: [https://www.salesforce.com/trailblazer/vpandey172]
+- 🌐 Trailhead Profile: [https://www.salesforce.com/](https://www.salesforce.com/trailblazer/vpandey172)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vikaspandey7](https://github.com/VikasCodesSF)
+- 👨‍💻 All of my projects are available at [https://github.com/VikasCodesSF](https://github.com/VikasCodesSF)
 
-- 📝 I regularly write articles on [https://salesforcesherpa.hashnode.dev/](https://salesforcesherpa.hashnode.dev/)
+- 📝 I regularly write articles on [https://salesforcesherpa.com](https://salesforcesherpa.hashnode.dev/)
 
 - 💬 Ask me about **Salesforce Development**
 
