@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/vikas_kumar04" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_kumar04?logo=twitter&style=for-the-badge" alt="vikas_kumar04" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Lightning Web Component**
+- 👯 I’m looking to collaborate on **Lightning Web Component & Apex Development**
 
 - 🌐 Trailhead Profile: [https://www.salesforce.com/trailblazer/vpandey172]
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vikaspandey7](https://github.com/Vikaspandey7)
+- 👨‍💻 All of my projects are available at [https://github.com/Vikaspandey7](https://github.com/VikasCodesSF)
 
 - 📝 I regularly write articles on [https://salesforcesherpa.hashnode.dev/](https://salesforcesherpa.hashnode.dev/)
 
 - 💬 Ask me about **Salesforce Development**
 
-- 📫 How to reach me **techknowlege191@gmail.com**
+- 📫 How to reach me **Vikaskumar.sfdx@gmail.com**
 
 - ⚡ Fun fact **As a Salesforce developer, I have the superpower to streamline and automate business processes using the Salesforce platform.**
 
